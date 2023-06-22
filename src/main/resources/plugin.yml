@@ -1,0 +1,6 @@
+name: WorldSaveBroadcast
+version: 1.0.0
+author: Pavog
+description: Broadcast a configurable message on WorldSaveEvent
+website: https://paulvogel.me
+main: me.pavog.worldsavebroadcast.Main
