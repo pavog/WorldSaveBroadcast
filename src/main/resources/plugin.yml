@@ -4,3 +4,4 @@ author: Pavog
 description: Broadcast a configurable message on WorldSaveEvent
 website: https://paulvogel.me
 main: me.pavog.worldsavebroadcast.Main
+api-version: '1.20'
